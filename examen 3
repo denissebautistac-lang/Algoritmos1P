@@ -1,0 +1,15 @@
+#programa para calcular la distancia entre dos puntos en el plano
+import math
+# solocitar las coordenadas de primer punto
+x1=float(input("ingresela coordenada x1:"))
+y1=float(input("ingresela coordenada y1:"))
+
+# solocitar las coordenadas de primer punto
+x2=float(input("ingresela coordenada x2:"))
+y2=float(input("ingresela coordenada y2:"))
+
+# calcular la distancia usando la formula 
+distancia= math,sqrt((x2-x1)**2+(y2-y1**2)
+
+# imprint el resultado 
+print(f"la distancia enre los puntos es : (distancia)")
