@@ -1,0 +1,8 @@
+#Este programa calcula la distancia entre dos puntos
+print("calculo de la distancia de dos puntos")
+x1 = float("input("ingresa x1:")) 
+y1 = float("input("ingresa y1:")) 
+x2 = float("input("ingresa x2:")) 
+y2 = float("input("ingresa y2:")) 
+d=math.sqrt((x2-x1)**2+(y2-y1)**2)
+  print("la distancia entre puntas es:*,d)
